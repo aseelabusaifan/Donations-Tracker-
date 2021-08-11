@@ -1,0 +1,22 @@
+
+   body { background-image: url(" img-school.jpg");
+
+   }
+   header{
+       background-color: rgb(41, 37, 37);
+       padding: 30px ;
+       text-align: center;
+      color: whitesmoke;
+      font-size:x-large;
+      bottom: 150px ;
+      margin-bottom: 100px  ;
+   }
+   fieldset { 
+       margin-left: 50px;
+       
+ background-color: rgb(105, 105, 231);
+ height: 200pt;
+ width:200pt;
+   }
+   
+
